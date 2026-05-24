@@ -1,0 +1,8 @@
+{
+  "name": "legalized-jur",
+  "version": "0.1.0",
+  "description": "Copywriter juridico de alta performance para advogados brasileiros. Redige WhatsApp e email no tom configurado pelo advogado, traduz juridiques para o cliente leigo, e aplica checklist OAB+LGPD automatico antes de devolver opcoes. Persona configuravel (3 presets + custom), compliance baseado em Lei 8.906/94, Codigo de Etica OAB 2015, Provimento 205/2021 e LGPD. 17 tipos de mensagem catalogados (11 WhatsApp + 6 email) + modo traducao pra cliente leigo.",
+  "author": {
+    "name": "IA Combativa"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "legalized-jur-marketplace",
+  "description": "Marketplace oficial do plugin Legalized Jur — copywriter juridico de alta performance pra advogados brasileiros.",
+  "owner": {
+    "name": "IA Combativa"
+  },
+  "plugins": [
+    {
+      "name": "legalized-jur",
+      "source": "./legalized-jur",
+      "description": "Copywriter juridico de alta performance para advogados brasileiros. Redige WhatsApp e email no tom configurado pelo advogado, traduz juridiques para o cliente leigo, e aplica checklist OAB+LGPD automatico antes de devolver opcoes. Persona configuravel (3 presets + custom), compliance baseado em Lei 8.906/94, Codigo de Etica OAB 2015, Provimento 205/2021 e LGPD.",
+      "author": {
+        "name": "IA Combativa"
+      }
+    }
+  ]
+}
